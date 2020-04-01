@@ -1,3 +1,9 @@
+Pseudo code will begin here, then transfer into other files as needed
+
+
+# PULLED IN FROM ASSIGNMENT README:
+
+
 # 10th-homework
 Team Profile Generator
 
